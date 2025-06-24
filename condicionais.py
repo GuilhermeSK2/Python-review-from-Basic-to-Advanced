@@ -25,6 +25,3 @@ else:
     print("Aluno reprovado...")
     
 print("Sua média é {}".format(media))  # Exibe a média formatada com duas casas decimais
-
-
-#-----------------------------------------------------------------------------------------------------------------------------------------------------
